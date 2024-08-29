@@ -12,8 +12,8 @@ A static webpage built using a combination of **HTML** and **CSS**.
 
 ## Preview
 
-Check out the live version of the page [here](#).
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project%20-%201/).
 
 ## Screenshots
 
-![Screenshot](./Img/image.png) <!-- Replace with actual screenshot URL -->
+![Screenshot](../Img/Project%20-%201.png) 
