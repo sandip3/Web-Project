@@ -2,7 +2,7 @@
 
 ## Static Web Page
 
-### 1. [Dental Care Landing Page](./Static/project%20-%201/Readme.md)
+### [1. Dental Care Landing Page](./Static/project%20-%201/Readme.md)
 
 - A simple webpage using **HTML** and **CSS**.
 
