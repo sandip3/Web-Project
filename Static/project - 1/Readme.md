@@ -1,6 +1,6 @@
 # Static Web Page
 
-A static webpage built using a combination of **HTML** and **CSS**.
+- A static webpage built using a combination of **HTML** and **CSS**.
 
 ## Technologies Used
 
@@ -17,3 +17,5 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 ## Screenshots
 
 ![Screenshot](../Img/Project%20-%201.png) 
+
+---
