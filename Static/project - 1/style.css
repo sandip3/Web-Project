@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+/* universal sign  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-family: "Rubik", sans-serif;
+    /* font-optical-sizing: auto; */
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+
+#main {
+    height: 100%;
+    width: 100%;
+    background: white;
+}
+
+
+nav {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+}
+
+#nav-part1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+nav h3,
+i {
+    font-size: 17px;
+    font-weight: 500;
+    border: 1.5px solid black;
+    padding: 5px 8px;
+    border-radius: 50px;
+}
+
+nav h1 {
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+nav button {
+    padding: 7px 12px;
+    border-radius: 50px;
+    border: 1.5px solid black;
+    font-size: 17px;
+    font-weight: 600;
+    background: white;
+}
+
+#btn2 {
+    border: none;
+    color: white;
+    background: orangered;
+}
+
+#Main-H1 {
+    font-size: 160px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    /* object-position: top; */
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#img1 {
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+
+#img2 {
+    transform: translate(-50%, -50%) rotate(-20deg);
+}
+
+#img3 {
+    transform: translate(-50%, -50%) rotate(-10deg);
+}
+
+.btm-left {
+    position: absolute;
+    bottom: 5%;
+    left: 2%;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btm-left-top {
+    color: orangered;
+    position: absolute;
+    bottom: 6%;
+    left: 2%;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.btm-center {
+    position: absolute;
+    bottom: -1%;
+    left: 50%;
+}
+
+#arrow {
+    font-size: 50px;
+}
+
+.btm-right {
+    position: absolute;
+    bottom: 5%;
+    right: 2%;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btm-right-top {
+    position: absolute;
+    bottom: 8%;
+    right: 2%;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.btm-right-top > i {
+    color: rgb(112, 112, 112);
+    border: none;
+    font-size: 30px;
+}
