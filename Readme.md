@@ -2,7 +2,7 @@
 
 ## Static Web Page
 
-### 1. Dental Care Landing Page
+### 1. [Dental Care Landing Page](./Static/project%20-%201/Readme.md)
 
 - A simple webpage using **HTML** and **CSS**.
 
@@ -13,7 +13,7 @@
 - **Google Fonts** for typography
 - Images from **Unsplash**
 
-### [Live Preview](#)
+### [Live Preview](https://sandip3.github.io/Web-Project/Static/project%20-%201/)
 
 ![Screenshot](./Static/Img/Project%20-%201.png) 
 
