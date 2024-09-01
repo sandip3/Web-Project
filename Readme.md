@@ -2,7 +2,7 @@
 
 ## Static Web Pages
 
-### [1. Dental Care Landing Page](./Static/Readme.md)
+### [1. Dental Care Landing Page](./Static/Readme.md#1-dental-care-landing-page)
 
 - A simple webpage using **HTML** and **CSS**.
 
@@ -19,7 +19,7 @@
 
 ---
 
-### [2. Bent Template Clone](./Static/Readme.md)
+### [2. Bent Template Clone](./Static/Readme.md#2-bent-template-clone)
 
 - A static webpage clone of the [**Bent Template**](https://bent-template.webflow.io/).
 
@@ -35,4 +35,3 @@
 ![Screenshot](./Static/Img/Bent-Template-Clone.gif)
 
 ---
-
