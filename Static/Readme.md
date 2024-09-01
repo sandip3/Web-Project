@@ -35,7 +35,7 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 
 ## Preview
 
-Check out the live version of the clone [here](https://sandip3.github.io/Web-Project/Static/bent-template-clone/).
+Check out the live version of the clone [here](https://sandip3.github.io/Web-Project/Static/project%20-%202/index.html).
 
 ## Screenshots
 

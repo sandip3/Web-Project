@@ -30,6 +30,9 @@
 - Fonts: **Google Fonts**
 - Images: **Unsplash**
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/bent-template-clone/)
+[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%202/index.html)
 
 ![Screenshot](./Static/Img/Bent-Template-Clone.gif)
+
+---
+
