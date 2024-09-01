@@ -18,7 +18,7 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 
 ## Screenshots
 
-![Screenshot](../Img/Project%20-%201.png) 
+![Screenshot](./Img/Project%20-%201.png) 
 
 ---
 
@@ -39,6 +39,6 @@ Check out the live version of the clone [here](https://sandip3.github.io/Web-Pro
 
 ## Screenshots
 
-![Screenshot](../Img/Bent-Template-Clone.png) 
+![Screenshot](./Img/Bent-Template-Clone.gif) 
 
 ---
