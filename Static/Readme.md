@@ -42,3 +42,24 @@ Check out the live version of the clone [here](https://sandip3.github.io/Web-Pro
 ![Screenshot](./Img/Bent-Template-Clone.gif) 
 
 ---
+
+## 3. Web Page Clone
+
+- A static webpage clone of a design from an image [here](https://pbs.twimg.com/media/Fw72tysXgAcp9EO?format=jpg&name=900x900).
+
+## Technologies Used
+
+- **HTML** and **CSS** for structure and styling
+- **Remix Icon** for icons
+- **Google Fonts** for custom typography
+- **Unsplash** for high-quality images
+
+## Preview
+
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project%20-%203/index.html).
+
+## Screenshots
+
+![Screenshot](./Img/Web-Page-Clone.gif) 
+
+---

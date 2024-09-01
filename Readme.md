@@ -35,3 +35,20 @@
 ![Screenshot](./Static/Img/Bent-Template-Clone.gif)
 
 ---
+
+### [3. Web Page Clone](./Static/Readme.md#3-web-page-clone)
+
+- A static webpage clone of a design from an image [here](https://pbs.twimg.com/media/Fw72tysXgAcp9EO?format=jpg&name=900x900).
+
+**Tech Stack:**
+
+- **HTML/CSS**
+- Icons: **Remix Icon**
+- Fonts: **Google Fonts**
+- Images: **Unsplash**
+
+[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%203/index.html)
+
+![Screenshot](./Static/Img/Web-Page-Clone.gif)
+
+---
