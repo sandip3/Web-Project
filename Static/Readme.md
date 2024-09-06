@@ -77,7 +77,7 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 
 ## Preview
 
-Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project - 4 pinterest).
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project%20-%204%20pinterest/).
 
 ## Screenshots
 
