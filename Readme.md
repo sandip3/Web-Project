@@ -10,8 +10,8 @@
 
 - **HTML/CSS** for design
 - Icons: **Font Awesome** & **Remix Icon**
-- **Google Fonts** for typography
-- Images from **Unsplash**
+- Typography: **Google Fonts**
+- Images: **Unsplash**
 
 [**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%201/)
 
@@ -50,5 +50,22 @@
 [**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%203/index.html)
 
 ![Screenshot](./Static/Img/Web-Page-Clone.gif)
+
+---
+
+### [4. Pinterest Clone](./Static/Readme.md#4-pinterest-clone)
+
+- A static webpage inspired by Pinterest's design.
+
+**Tech Stack:**
+
+- **HTML/CSS/JavaScript** for structure, styling, and interactivity
+- Icons: **Remix Icon**
+- Styling: **Tailwind CSS**
+- Images: **Unsplash**
+
+[**Live Preview**](https://sandip3.github.io/Web-Project/Static/pinterest/index.html)
+
+![Screenshot](./Static/Img/Pinterest.gif)
 
 ---
