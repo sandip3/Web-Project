@@ -63,3 +63,26 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 ![Screenshot](./Img/Web-Page-Clone.gif) 
 
 ---
+
+## 4. Pinterest Clone
+
+- A static webpage clone inspired by the Pinterest design.
+
+## Technologies Used
+
+- **HTML**, **CSS**, and **JavaScript** for structure, styling, and interactivity
+- **Remix Icon** for icons
+- **Tailwind CSS** for utility-first styling
+- **Unsplash** for high-quality images
+
+## Preview
+
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/pinterest/index.html).
+
+## Screenshots
+
+![Screenshot](./Img/Pinterest.gif)
+
+---
+
+## 
