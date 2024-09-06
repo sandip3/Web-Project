@@ -64,7 +64,7 @@
 - Styling: **Tailwind CSS**
 - Images: **Unsplash**
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/pinterest/index.html)
+[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project - 4 pinterest)
 
 ![Screenshot](./Static/Img/Pinterest.gif)
 
