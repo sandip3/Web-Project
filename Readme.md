@@ -1,71 +1,118 @@
-# Projects
+# Static Web Page
 
-## Static Web Pages
+## 1. [Dental Care Landing Page](./project%20-%201/index.html)
 
-### [1. Dental Care Landing Page](./Static/Readme.md#1-dental-care-landing-page)
+- **HTML** and **CSS** based static webpage.
 
-- A simple webpage using **HTML** and **CSS**.
-
-**Features:**
+**Technologies Used:**
 
 - **HTML/CSS** for design
-- Icons: **Font Awesome** & **Remix Icon**
-- Typography: **Google Fonts**
-- Images: **Unsplash**
+- **Font Awesome**, **Remix Icon** for icons
+- **Google Fonts** for typography
+- **Unsplash** for images
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%201/)
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%201/)
+
+**Screenshots:**
 
 ![Screenshot](./Static/Img/Project%20-%201.png)
 
 ---
 
-### [2. Bent Template Clone](./Static/Readme.md#2-bent-template-clone)
+## 2. [Bent Template Clone](./project%20-%202/index.html)
 
-- A static webpage clone of the [**Bent Template**](https://bent-template.webflow.io/).
+- Clone of the **[Bent Template](https://bent-template.webflow.io/)**.
 
-**Tech Stack:**
+**Technologies Used:**
 
-- **HTML/CSS**
-- Icons: **Remix Icon**
-- Fonts: **Google Fonts**
-- Images: **Unsplash**
+- **HTML/CSS** for design
+- **Remix Icon** for icons
+- **Google Fonts** for typography
+- **Unsplash** for images
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%202/index.html)
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%202/index.html)
+
+**Screenshots:**
 
 ![Screenshot](./Static/Img/Bent-Template-Clone.gif)
 
 ---
 
-### [3. Web Page Clone](./Static/Readme.md#3-web-page-clone)
+## 3. [Web Page Clone](./project%20-%203/index.html)
 
-- A static webpage clone of a design from an image [here](https://pbs.twimg.com/media/Fw72tysXgAcp9EO?format=jpg&name=900x900).
+- Clone of a design from [this image](https://pbs.twimg.com/media/Fw72tysXgAcp9EO?format=jpg&name=900x900).
 
-**Tech Stack:**
+**Technologies Used:**
 
-- **HTML/CSS**
-- Icons: **Remix Icon**
-- Fonts: **Google Fonts**
-- Images: **Unsplash**
+- **HTML/CSS** for design
+- **Remix Icon** for icons
+- **Google Fonts** for typography
+- **Unsplash** for images
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%203/index.html)
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%203/index.html)
+
+**Screenshots:**
 
 ![Screenshot](./Static/Img/Web-Page-Clone.gif)
 
 ---
 
-### [4. Pinterest Clone](./Static/Readme.md#4-pinterest-clone)
+## 4. [Pinterest Clone](./project%20-%204%20pinterest/index.html)
 
-- A static webpage inspired by Pinterest's design.
+- Inspired by Pinterest design.
 
-**Tech Stack:**
+**Technologies Used:**
 
-- **HTML/CSS/JavaScript** for structure, styling, and interactivity
-- Icons: **Remix Icon**
-- Styling: **Tailwind CSS**
-- Images: **Unsplash**
+- **HTML/CSS/JavaScript** for structure and interactivity
+- **Remix Icon** for icons
+- **Tailwind CSS** for styling
+- **Unsplash** for images
 
-[**Live Preview**](https://sandip3.github.io/Web-Project/Static/project%20-%204%20pinterest/)
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%204%20pinterest/)
+
+**Screenshots:**
 
 ![Screenshot](./Static/Img/Pinterest.gif)
+
+---
+
+## 5. [Cart Function](./project%20-%205%20cart/index.html)
+
+- Static page with **cart functionality**, optimized for mobile view.
+
+**Technologies Used:**
+
+- **HTML/CSS/JavaScript**
+- **Remix Icon** for icons
+- **Tailwind CSS** for styling
+
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%205%20cart/)
+
+**Screenshots:**
+
+![Screenshot](./Static/Img/Cart.gif)
+
+---
+
+## 6. [Music Player](./project%20-%206%20Music%20Player/index.html)
+
+- Simple music player on a static page.
+
+**Technologies Used:**
+
+- **HTML/CSS/JavaScript**
+- **Remix Icon** for icons
+
+**Features:**
+
+- Play/pause, next, and previous buttons
+- Click on songs to change tracks
+- No progress bar
+
+**Preview:** [Live Version](https://sandip3.github.io/Web-Project/Static/project%20-%206%20Music%20Player/)
+
+**Screenshots:**
+
+![Screenshot](./Static/Img/Music%20Player.gif)
 
 ---

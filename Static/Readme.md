@@ -85,4 +85,48 @@ Check out the live version of the page [here](https://sandip3.github.io/Web-Proj
 
 ---
 
-## 
+## 5. [Cart Function](./project%20-%205%20cart/index.html)
+
+- A static webpage demonstrating a **cart functionality**, optimized for **mobile view** with responsive design.
+
+## Technologies Used
+
+- **HTML**, **CSS**, and **JavaScript**
+- **Remix Icon** for icons
+- **Tailwind CSS** for utility-first styling
+
+## Preview
+
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project%20-%205%20cart/).
+
+## Screenshots
+
+![Screenshot](./Img/Cart.gif)
+
+---
+
+## 6. [Music Player](./project%20-%206%20Music%20Player/index.html)
+
+- A static webpage featuring a simple music player.
+
+## Technologies Used
+
+- **HTML**, **CSS**, and **JavaScript**
+- **Remix Icon** for icons
+
+## Features
+
+- Play/pause buttons
+- Next and previous buttons
+- Click on songs to change tracks
+- No progress bar
+
+## Preview
+
+Check out the live version of the page [here](https://sandip3.github.io/Web-Project/Static/project%20-%206%20Music%20Player/).
+
+## Screenshots
+
+![Screenshot](./Img/Music%20Player.gif)
+
+---
